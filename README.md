@@ -10,7 +10,7 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
-
+![floSY](https://github.com/sungyoungPark/ZoomImageView/assets/55025822/7eca41ef-828e-4738-9f50-19f65866e9c0)
 ## Installation
 
 ZoomImageView is available through [CocoaPods](https://cocoapods.org). To install
