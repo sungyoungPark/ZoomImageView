@@ -1,0 +1,35 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Kingfisher (7.12.0)
+  - SnapKit (5.7.1)
+  - ZoomImageView (0.1.0):
+    - Kingfisher (~> 7.0)
+    - SnapKit (~> 5.7.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - ZoomImageView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+    - Kingfisher
+    - SnapKit
+
+EXTERNAL SOURCES:
+  ZoomImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Kingfisher: 53a10ea35051a436b5fb626ca2dd8f3144d755e9
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  ZoomImageView: a343250416bd913d3b9b82fdf80511a231182c4c
+
+PODFILE CHECKSUM: 47e4345a16b81df93f5c6ffcbbfff531f95f768f
+
+COCOAPODS: 1.15.2

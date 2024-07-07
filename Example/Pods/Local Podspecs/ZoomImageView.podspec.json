@@ -1,0 +1,30 @@
+{
+  "name": "ZoomImageView",
+  "version": "0.1.0",
+  "summary": "줌 기능이 있는 이미지뷰 입니다.",
+  "description": "줌 기능이 있는 이미지뷰 입니다.",
+  "homepage": "https://github.com/sungyoungPark/ZoomImageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sungyoungPark": "sygitter1491012@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sungyoungPark/ZoomImageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "ZoomImageView/Classes/**/*",
+  "dependencies": {
+    "Kingfisher": [
+      "~> 7.0"
+    ],
+    "SnapKit": [
+      "~> 5.7.0"
+    ]
+  }
+}
