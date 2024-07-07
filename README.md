@@ -17,7 +17,8 @@ ZoomImageView is available through [CocoaPods](https://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'ZoomImageView'
+pod "ZoomImageView", :git => 'https://github.com/sungyoungPark/ZoomImageView.git', :tag => '0.1.0'
+
 ```
 
 ## Author
