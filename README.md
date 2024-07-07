@@ -9,7 +9,7 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Explain
-- 클릭시 이미지 줌을 하여 상세보기 기능을 지원하는 이미지뷰입니다.
+- 클릭시 이미지 줌을 하여 상세보기 기능을 지원하는 이미지뷰 라이브러리입니다.
 
 ![record](https://github.com/sungyoungPark/ZoomImageView/assets/55025822/eb871c7b-680d-4bbd-9554-ef66c0e48ca0)
 
