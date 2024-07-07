@@ -1,6 +1,5 @@
 # ZoomImageView
 
-[![CI Status](https://img.shields.io/travis/sungyoungPark/ZoomImageView.svg?style=flat)](https://travis-ci.org/sungyoungPark/ZoomImageView)
 [![Version](https://img.shields.io/cocoapods/v/ZoomImageView.svg?style=flat)](https://cocoapods.org/pods/ZoomImageView)
 [![License](https://img.shields.io/cocoapods/l/ZoomImageView.svg?style=flat)](https://cocoapods.org/pods/ZoomImageView)
 [![Platform](https://img.shields.io/cocoapods/p/ZoomImageView.svg?style=flat)](https://cocoapods.org/pods/ZoomImageView)
@@ -9,8 +8,11 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-![floSY](https://github.com/sungyoungPark/ZoomImageView/assets/55025822/7eca41ef-828e-4738-9f50-19f65866e9c0)
+## Explain
+- 클릭시 이미지 줌을 하여 상세보기 기능을 지원하는 이미지뷰입니다.
+
+![record](https://github.com/sungyoungPark/ZoomImageView/assets/55025822/eb871c7b-680d-4bbd-9554-ef66c0e48ca0)
+
 ## Installation
 
 ZoomImageView is available through [CocoaPods](https://cocoapods.org). To install
